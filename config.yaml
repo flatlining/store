@@ -1,0 +1,23 @@
+# v2.2.0
+baseurl: "http://schertel.dev/store/"
+languageCode: en-us
+theme: autophugo
+title: Brique Joinhas
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+Author:
+  email: mschertel@gmail.com
+  name: Matias S.
+params:
+  favicon: /favicon.ico
+  description: "Go minimal, or go home"
+  keywords: "store, brique, minimalist"
+  header:
+    links:
+      - icon: "fa-envelope-o "
+        name: Contact Me
+        url: "mailto:matias@schertel.dev"
+  footer:
+    copyright:
+      name: Matias S.
