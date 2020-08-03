@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://schertel.dev/store/</loc>
+    <lastmod>2020-07-12T22:09:58-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://schertel.dev/store/home/</loc>
+    <lastmod>2020-07-12T22:09:58-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://schertel.dev/store/hobbies/</loc>
+    <lastmod>2020-07-12T21:56:40-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://schertel.dev/store/comicsandmangas/</loc>
+    <lastmod>2020-07-12T21:36:57-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://schertel.dev/store/tvandmovies/</loc>
+    <lastmod>2020-07-12T21:21:30-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://schertel.dev/store/eletronicos/</loc>
+    <lastmod>2020-07-12T21:05:19-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://schertel.dev/store/livros-michele/</loc>
+    <lastmod>2020-07-12T20:28:46-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://schertel.dev/store/livros-matias/</loc>
+    <lastmod>2020-07-12T19:23:41-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://schertel.dev/store/lps/</loc>
+    <lastmod>2020-07-12T17:53:29-03:00</lastmod>
+  </url>
+  
+</urlset>

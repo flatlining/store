@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eletrônicos on Brique Joinhas</title>
+    <link>http://schertel.dev/store/eletronicos/</link>
+    <description>Recent content in Eletrônicos on Brique Joinhas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>mschertel@gmail.com (Matias S.)</managingEditor>
+    <webMaster>mschertel@gmail.com (Matias S.)</webMaster>
+    <lastBuildDate>Sun, 12 Jul 2020 21:05:19 -0300</lastBuildDate>
+    
+	<atom:link href="http://schertel.dev/store/eletronicos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
