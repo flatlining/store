@@ -2,7 +2,7 @@
 title: Eletrônicos
 date: 2020-07-12T21:05:19-03:00
 draft: false
-albumthumb: "15-Nexus 7 (2013) + Capa.jpg"
+albumthumb: "inova-curl.jpg"
 
 resources:
   - src: eletronicos/14-Dji Spark Fly More Combo + Extras.jpg
@@ -11,4 +11,11 @@ resources:
   - src: eletronicos/15-Nexus 7 (2013) + Capa.jpg
     phototitle: Nexus 7 (2013) + Capa (R$ 100)
     description: "[specs](https://www.gsmarena.com/asus_google_nexus_7_(2013)-5600.php)"
+
+  - src: eletronicos/inova-curl.jpg
+    phototitle: Modelador de Cachos Innova Wonder Curl (R$ 75)
+    description: "[Mercado Livre](https://lista.mercadolivre.com.br/beleza-cuidado-pessoal/modelador-de-cachos-innova-wonder-curl-bivolt-ga.ma-italy)"
+  - src: eletronicos/mondial-power.jpg
+    phototitle: Mondial Power Shine Black Ion + Difusor Universal (R$ 50)
+    description: "[Magazine Luiza](https://www.magazineluiza.com.br/secador-de-cabelo-mondial-power-shine-black-preto-com-ions-1900w-2-velocidades/p/108126500/pf/psec/)"
 ---
