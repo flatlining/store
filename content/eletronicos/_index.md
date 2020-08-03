@@ -11,4 +11,8 @@ resources:
   - src: eletronicos/15-Nexus 7 (2013) + Capa.jpg
     phototitle: Nexus 7 (2013) + Capa (R$ 100)
     description: "[specs](https://www.gsmarena.com/asus_google_nexus_7_(2013)-5600.php)"
+
+  - src: eletronicos/inova-curl.jpg
+    phototitle: Modelador de Cachos Innova Wonder Curl (R$ 75)
+    description: "[Mercado Livre](https://lista.mercadolivre.com.br/beleza-cuidado-pessoal/modelador-de-cachos-innova-wonder-curl-bivolt-ga.ma-italy)"
 ---
